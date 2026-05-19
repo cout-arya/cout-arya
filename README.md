@@ -14,10 +14,13 @@
 <a href="mailto:aryaverma888@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/badman888/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+apps;RAG+pipelines+%7C+Vector+Embeddings+%7C+AI+Integrations;MERN+Stack+%7C+Docker+%7C+CI%2FCD;Always+learning%2C+always+shipping+%F0%9F%9A%80)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+apps;RAG+pipelines+%7C+Vector+Embeddings+%7C+AI;MERN+Stack+%7C+Docker+%7C+CI%2FCD;Always+learning%2C+always+shipping!" alt="Typing SVG" /></a>
 
 </div>
 
@@ -163,6 +166,10 @@ Real-time quizzing with AI question generation and live academic integrity enfor
 ### 🧩 Problem Solving
 
 <div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-badman888-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/badman888/)
+
+<img src="https://leetcard.jacoblin.cool/badman888?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="60%"/>
 
 | Platform | Solved | Focus Areas |
 |----------|--------|-------------|
