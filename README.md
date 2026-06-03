@@ -167,9 +167,9 @@ Real-time quizzing with AI question generation and live academic integrity enfor
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-badman888-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/badman888/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-badman888-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/cout_arya/)
 
-<img src="https://leetcard.jacoblin.cool/badman888?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="60%"/>
+<img src="https://leetcard.jacoblin.cool/cout_arya?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="60%"/>
 
 | Platform | Solved | Focus Areas |
 |----------|--------|-------------|
