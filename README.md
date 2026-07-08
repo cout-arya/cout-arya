@@ -20,7 +20,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+apps;RAG+pipelines+%7C+Vector+Embeddings+%7C+AI;MERN+Stack+%7C+Docker+%7C+CI%2FCD;Always+learning%2C+always+shipping!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+apps;RAG+pipelines+%7C+Vector+Embeddings+%7C+AI;MERN+Stack+%7C+Docker+%7C+CI%2FCD;Always+learning%2C+always+shipping!" alt="Typing SVG" /></a>
 
 </div>
 
@@ -145,7 +145,7 @@ Real-time quizzing with AI question generation and live academic integrity enfor
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cout-arya&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=cout-arya&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" width="60%"/>
 
 </div>
 
