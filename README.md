@@ -173,7 +173,7 @@ Real-time quizzing with AI question generation and live academic integrity enfor
 
 | Platform | Solved | Focus Areas |
 |----------|--------|-------------|
-| 🟡 LeetCode | 180+ problems | Arrays, Trees, DP, Graphs |
+| 🟡 LeetCode | 250+ problems | Arrays, Trees, DP, Graphs |
 | 🟢 GeeksforGeeks | 50+ problems | Data Structures, Algorithms |
 
 </div>
