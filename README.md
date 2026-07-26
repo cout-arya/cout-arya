@@ -99,9 +99,15 @@
 
 ---
 
+---
+
 ### 🚀 Featured Projects
 
 #### 🥗 [FuelIQ](https://github.com/cout-arya/fueliq) — AI-Powered Indian Nutrition Coach
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cout-arya/fueliq)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://fueliq-1.onrender.com/)
+
 > *MERN · Google Gemini · Pinecone · RAG · Docker · GitHub Actions*
 
 Most fitness apps are built for Western diets. FuelIQ isn't.
@@ -113,6 +119,10 @@ Most fitness apps are built for Western diets. FuelIQ isn't.
 ---
 
 #### 📄 [JDFit](https://github.com/cout-arya/jdfit) — AI-Powered ATS Resume Analyzer
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cout-arya/jdfit)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://resume-analyser-1-hg6s.onrender.com/)
+
 > *MERN · Meta Llama 3.3 70B · OpenAI Embeddings · RAG · Docker · GitHub Actions*
 
 ATS tools that only do keyword matching miss the point. JDFit doesn't.
@@ -124,6 +134,10 @@ ATS tools that only do keyword matching miss the point. JDFit doesn't.
 ---
 
 #### 🎮 [QuizMaster.AI](https://github.com/cout-arya/quizmaster-ai) — Real-Time Multiplayer Quiz Platform
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cout-arya/quizmaster-ai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://quiz-generator-1-56v1.onrender.com/)
+
 > *MERN · Socket.io · OpenAI API · WebSockets · Docker · GitHub Actions*
 
 Real-time quizzing with AI question generation and live academic integrity enforcement.
@@ -131,8 +145,6 @@ Real-time quizzing with AI question generation and live academic integrity enfor
 - 🤖 **AI quiz engine** generating contextually accurate questions from uploaded PDFs via a custom RAG pipeline — complete quizzes in seconds, not hours
 - 🛡️ Real-time **academic integrity system** detecting screenshot attempts, enforcing fullscreen, and tracking tab switches — violations pushed live to host dashboard via WebSockets
 - 📋 Post-game **integrity reports** (PDF + Excel) with per-student violation logs and an Integrity Score; backed by persistent MongoDB sessions and full Jest & Supertest test coverage
-
----
 
 ### 📊 GitHub Stats
 
