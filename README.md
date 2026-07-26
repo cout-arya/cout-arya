@@ -146,6 +146,8 @@ Real-time quizzing with AI question generation and live academic integrity enfor
 - 🛡️ Real-time **academic integrity system** detecting screenshot attempts, enforcing fullscreen, and tracking tab switches — violations pushed live to host dashboard via WebSockets
 - 📋 Post-game **integrity reports** (PDF + Excel) with per-student violation logs and an Integrity Score; backed by persistent MongoDB sessions and full Jest & Supertest test coverage
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
